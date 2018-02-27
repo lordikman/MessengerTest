@@ -9,7 +9,7 @@
 Messenger for iOS is a real time chat app based on Firebase developed by [Lordikman](https://vk.com/borsh_man) and written in Swift 4.
 
 <h3 align="center">
-<img src="screenshot.jpg" alt="Screenshot of Messenger for iOS" />
+<img src="screenshot.png" alt="Screenshot of Messenger for iOS" />
 </h3>
 
 ## Getting Started
